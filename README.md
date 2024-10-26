@@ -2,7 +2,7 @@
 
 Live site:
 
-- [HouseHunter]([https://classy-cheesecake-90e007.netlify.app/](https://hilarious-bienenstitch-88d57a.netlify.app/))
+- [HouseHunter](https://hilarious-bienenstitch-88d57a.netlify.app/)
 
 ## Features of this project
 
