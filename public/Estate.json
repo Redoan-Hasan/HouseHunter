@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Single-Family Home",
+    "segment_name": "Single-family homes",
+    "description": "A spacious 4-bedroom, 3-bathroom modern home perfect for families. Located in a quiet neighborhood.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "123 Elm Street, Springfield",
+    "facilities": ["living room", "swimming pool", "garage", "kitchen"],
+    "image": "https://i.postimg.cc/NFGkSnwr/pexels-curtis-adams-1694007-3555615.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 2,
+    "estate_title": "Luxury Townhouse",
+    "segment_name": "townhouses",
+    "description": "A luxury 3-bedroom, 2-bathroom townhouse with private parking and modern amenities.",
+    "price": "$350,000",
+    "status": "sale",
+    "area": "1800 sq ft",
+    "location": "456 Pine Avenue, Oakwood",
+    "facilities": ["living room", "garden", "rooftop terrace", "kitchen"],
+    "image": "https://i.postimg.cc/fRSjGX15/luxurytownhouse.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 3,
+    "estate_title": "Downtown Apartment",
+    "segment_name": "apartments",
+    "description": "A cozy 2-bedroom, 1-bathroom apartment located in the heart of the city with easy access to public transport.",
+    "price": "$1,500/month",
+    "status": "rent",
+    "area": "1000 sq ft",
+    "location": "789 Center Plaza, Metropolis",
+    "facilities": ["living room", "balcony", "kitchen"],
+    "image": "https://i.postimg.cc/2y5n2B4Q/downtownapartment.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 4,
+    "estate_title": "Beachfront Vacation Rental",
+    "segment_name": "vacation rentals",
+    "description": "A beautiful beachfront rental with 3 bedrooms and stunning ocean views, perfect for a relaxing getaway.",
+    "price": "$300/night",
+    "status": "rent",
+    "area": "1500 sq ft",
+    "location": "101 Beachside Drive, Malibu",
+    "facilities": ["living room", "swimming pool", "beach access", "kitchen"],
+    "image": "https://i.postimg.cc/9FrG9ZXV/beachfronvacation.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 5,
+    "estate_title": "University Dormitory",
+    "segment_name": "Student Housing",
+    "description": "A 2-bedroom shared dormitory with study rooms and common areas. Ideal for university students.",
+    "price": "$700/month",
+    "status": "rent",
+    "area": "500 sq ft",
+    "location": "University Campus, Elmwood",
+    "facilities": ["study room", "common lounge", "kitchen"],
+    "image": "https://i.postimg.cc/2yzFBKcS/uni-dormitory.jpg",
+    "view_property": "View Property"
+  },
+  {
+    "id": 6,
+    "estate_title": "Sunshine Senior Living Community",
+    "segment_name": "Senior Living Communities",
+    "description": "A comfortable 1-bedroom unit in a senior living community offering healthcare, meals, and recreational activities.",
+    "price": "$2,000/month",
+    "status": "rent",
+    "area": "800 sq ft",
+    "location": "123 Sunshine Blvd, Palm Springs",
+    "facilities": ["healthcare center", "garden", "dining area", "recreational room"],
+    "image": "https://i.postimg.cc/W3V0QyPw/seniorliving.jpg",
+    "view_property": "View Property"
+  }
+]
