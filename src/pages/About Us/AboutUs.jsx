@@ -9,7 +9,7 @@ const AboutUs = () => {
         <div>
             <div className="relative lg:w-[750px] mx-auto">
                 <div className="-z-10 ">
-                    <img className="rounded-lg lg:h-[500px] mx-auto" src="public/Assets/aboutusbg.jpg" alt="" />
+                    <img className="rounded-lg lg:h-[500px] mx-auto" src="https://i.postimg.cc/25C924fK/aboutusbg.jpg" alt="" />
                 </div>
                 <div className="absolute rounded-lg inset-0 lg:h-[500px] bg-black opacity-40 z-0"></div>
                 <div className="absolute   z-10 inset-0 flex flex-col items-center justify-center">
