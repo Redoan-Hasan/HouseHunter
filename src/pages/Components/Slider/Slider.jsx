@@ -27,7 +27,7 @@ const Slider = () => {
             <div className="relative">
                 <img
                 className="h-full w-full"
-                src="public/Assets/A family enjoying a backyard barbecue.jpg"
+                src="https://i.postimg.cc/Y0165P7R/A-family-enjoying-a-backyard-barbecue.jpg"
                 alt=""
                 />
                 <div className="absolute inset-0 bg-black opacity-40 z-10"></div>
@@ -41,7 +41,7 @@ const Slider = () => {
             <div className="relative">
                 <img
                 className="h-full w-full"
-                src="public/Assets/agent helping a client look at a home1.jpg"
+                src="https://i.postimg.cc/xT3GgBtT/agent-helping-a-client-look-at-a-home1.jpg"
                 alt=""
                 />
                 <div className="absolute inset-0 bg-black opacity-40 z-10"></div>
@@ -55,7 +55,7 @@ const Slider = () => {
             <div className="relative">
                 <img
                 className="h-full w-full"
-                src="public/Assets/living roomjpg.jpg"
+                src="https://i.postimg.cc/zfVnzv5V/living-roomjpg.jpg"
                 alt=""
                 />
                 <div className="absolute inset-0 bg-black opacity-40 z-10"></div>
@@ -69,7 +69,7 @@ const Slider = () => {
             <div className="relative">
                 <img
                 className="h-full w-full"
-                src="public/Assets/A handshake between a buyer and seller.jpg"
+                src="https://i.postimg.cc/Y0wgzxFW/A-handshake-between-a-buyer-and-seller.jpg"
                 alt=""
                 />
                 <div className="absolute inset-0 bg-black opacity-40 z-10"></div>
